@@ -1,0 +1,58 @@
+fieldset
+{
+    background-color: #9f9f83;
+    width: 50%;
+    margin-left: 225px;
+    align-content: center;
+    border: 3px solid #0e88e6;
+    border-radius: 20px;
+}
+#f2
+{
+    margin-top: 100px;
+}
+legend
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 35px;
+    font-weight: bolder;
+    
+}
+.c1
+{
+    color: rgb(34, 13, 155);
+    font-family: cursive;
+}
+.c2
+{
+    color: black;
+    font-size: 25px;
+}
+
+.c3
+{
+    border: 2px ridge palevioletred;
+}
+
+#b1
+{
+background-color: aqua;
+border-radius: 20px;
+margin-left: 250px;
+}
+
+#b1:hover
+{
+background-color: #0f22d0;
+}
+
+container
+{
+ align-content: center;
+}
+
+input
+{
+    background-color: bisque;
+}
+
